@@ -1,12 +1,10 @@
-### Hi there, this is Maxwell. 👋
+### Hi there, this is Maxwell. 👋          ![](https://komarev.com/ghpvc/?username=yuyuichiu&color=yellow&style=flat)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuyuichiu&show_icons=true&theme=solarized-light&hide=issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
 
-![](https://komarev.com/ghpvc/?username=yuyuichiu&color=yellow&style=flat)
-
-
 - 🔭 I’m currently a student in City University of Hong Kong
 - 🌱 Actively learning React, PHP, Node.js and Web Development!
+
 <!--
 **yuyuichiu/yuyuichiu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
