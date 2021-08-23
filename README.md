@@ -1,6 +1,8 @@
 ### Hi there, this is Maxwell. 👋          ![](https://komarev.com/ghpvc/?username=yuyuichiu&color=yellow&style=flat)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuyuichiu&show_icons=true&theme=graywhite&hide=issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
+![Codewar Badge](https://www.codewars.com/users/MaxwellYu/badges/large)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuyuichiu&show_icons=true&theme=graywhite&hide=issues,contribs)
 
 - 🔭 I’m currently a student in City University of Hong Kong
 - 🌱 Actively learning CSS, Javascript, React, PHP, Node.js! (Web Development in general)
@@ -12,6 +14,13 @@
 </a>
 <a href="https://github.com/yuyuichiu/not-pizza-hut">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yuyuichiu&repo=not-pizza-hut&theme=graywhite" />
+</a>
+
+<a href="https://github.com/yuyuichiu/minesweeper">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yuyuichiu&repo=minesweeper&theme=graywhite" />
+</a>
+<a href="https://github.com/yuyuichiu/noteboard-web">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yuyuichiu&repo=noteboard-web&theme=graywhite" />
 </a>
 
 <!--
