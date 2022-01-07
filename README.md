@@ -4,10 +4,13 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuyuichiu&show_icons=true&theme=graywhite&hide=issues,contribs)
 
-- 🔭 I’m currently a student in City University of Hong Kong
-- 🌱 Actively learning CSS, Javascript, React, PHP, Node.js! (Web Development in general)
+- 🔭 IM Major Student of City University of Hong Kong
+- 🌱 Front-end Web Development Skills - CSS, Bootstrap, JavaScript (Typescript too), React.js, Next.js, Sass
+- ♟️ Server-side Development Skills - RESTful APIs, Node.js ,Express, Cloud (AWS, MongoDB..), GraphQL
 
 #### Checkout my web projects!
+
+My codepen: <a href='https://codepen.io/yuyuichiu' target='_blank'>https://codepen.io/yuyuichiu</a>
 
 <a href="https://github.com/yuyuichiu/WhatsNearMe-HK">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yuyuichiu&repo=WhatsNearMe-HK&theme=graywhite" />
