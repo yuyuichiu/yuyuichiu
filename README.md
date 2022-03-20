@@ -1,8 +1,6 @@
 ### Hi there, this is Tod. 👋          ![](https://komarev.com/ghpvc/?username=yuyuichiu&color=yellow&style=flat)
 
-![Codewar Badge](https://www.codewars.com/users/yuyuichiu/badges/large)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuyuichiu&show_icons=true&theme=graywhite&hide=issues,contribs)
+![Codewar Badge](https://www.codewars.com/users/yuyuichiu/badges/large)\
 
 - 🔭 IM Major Student of City University of Hong Kong
 - 🌱 Front-end Web Development Skills - CSS, Bootstrap, JavaScript (Typescript too), React.js, Next.js, Sass
