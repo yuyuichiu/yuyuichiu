@@ -1,4 +1,4 @@
-### Hi there, this is Maxwell. 👋          ![](https://komarev.com/ghpvc/?username=yuyuichiu&color=yellow&style=flat)
+### Hi there, this is Tod. 👋          ![](https://komarev.com/ghpvc/?username=yuyuichiu&color=yellow&style=flat)
 
 ![Codewar Badge](https://www.codewars.com/users/yuyuichiu/badges/large)
 
@@ -9,6 +9,8 @@
 - ♟️ Server-side Development Skills - RESTful APIs, Node.js ,Express, Cloud (AWS, MongoDB..), GraphQL
 
 #### Checkout my web projects!
+
+My website: <a href='https://www.yuyuichiu.com' target='_blank'>https://www.yuyuichiu.com</a>
 
 My codepen: <a href='https://codepen.io/yuyuichiu' target='_blank'>https://codepen.io/yuyuichiu</a>
 
