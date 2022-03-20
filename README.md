@@ -1,6 +1,6 @@
 ### Hi there, this is Maxwell. 👋          ![](https://komarev.com/ghpvc/?username=yuyuichiu&color=yellow&style=flat)
 
-![Codewar Badge](https://www.codewars.com/users/MaxwellYu/badges/large)
+![Codewar Badge](https://www.codewars.com/users/yuyuichiu/badges/large)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuyuichiu&show_icons=true&theme=graywhite&hide=issues,contribs)
 
