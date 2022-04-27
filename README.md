@@ -1,6 +1,6 @@
-### Hi there, this is Tod. 👋          ![](https://komarev.com/ghpvc/?username=yuyuichiu&color=yellow&style=flat)
+### Hi there, this is Dave. 👋          ![](https://komarev.com/ghpvc/?username=yuyuichiu&color=yellow&style=flat)
 
-![Codewar Badge](https://www.codewars.com/users/yuyuichiu/badges/large)\
+![Codewar Badge](https://www.codewars.com/users/yuyuichiu/badges/large)
 
 - 🔭 IM Major Student of City University of Hong Kong
 - 🌱 Front-end Web Development Skills - CSS, Bootstrap, JavaScript (Typescript too), React.js, Next.js, Sass
@@ -8,7 +8,7 @@
 
 #### Checkout my web projects!
 
-My website: <a href='https://www.yuyuichiu.com' target='_blank'>https://www.yuyuichiu.com</a>
+My website: <a href='https://www.yuyuichiu.com' target='_blank'>https://www.yuyuichiu.com</a> (Work in Progress)
 
 My codepen: <a href='https://codepen.io/yuyuichiu' target='_blank'>https://codepen.io/yuyuichiu</a>
 
