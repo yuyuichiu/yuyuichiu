@@ -8,10 +8,13 @@
 
 #### Checkout my web projects!
 
-My website: <a href='https://www.yuyuichiu.com' target='_blank'>https://www.yuyuichiu.com</a> (Work in Progress)
+My resume: <a href='https://yuyuichiu-personal.s3.us-west-1.amazonaws.com/Yu+Yui+Chiu_CV_2022.pdf' target='_blank'>Link</a>
+
+My website: <a href='https://www.yuyuichiu.com/blog' target='_blank'>https://www.yuyuichiu.com</a> (Work in Progress)
+
+<!--
 
 My codepen: <a href='https://codepen.io/yuyuichiu' target='_blank'>https://codepen.io/yuyuichiu</a>
-
 <a href="https://github.com/yuyuichiu/WhatsNearMe-HK">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yuyuichiu&repo=WhatsNearMe-HK&theme=graywhite" />
 </a>
@@ -26,7 +29,6 @@ My codepen: <a href='https://codepen.io/yuyuichiu' target='_blank'>https://codep
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yuyuichiu&repo=noteboard-web&theme=graywhite" />
 </a>
 
-<!--
 **yuyuichiu/yuyuichiu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
