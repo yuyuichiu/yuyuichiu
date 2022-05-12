@@ -3,14 +3,18 @@
 ![Codewar Badge](https://www.codewars.com/users/yuyuichiu/badges/large)
 
 - 🔭 IM Major Student of City University of Hong Kong
-- 🌱 Front-end Web Development Skills - CSS, Bootstrap, JavaScript (Typescript too), React.js, Next.js, Sass
-- ♟️ Server-side Development Skills - RESTful APIs, Node.js ,Express, Cloud (AWS, MongoDB..), GraphQL
+- 🌱 Front-end Web Development Skills - CSS, Bootstrap, JavaScript/Typescript, React.js, Next.js, SCSS, Reponsive Design, Figma
+- ♟️ Server-side Development Skills - RESTful APIs, Node.js with Express, Cloud (AWS, MongoDB..), GraphQL
 
 #### Checkout my web projects!
 
-My resume: <a href='https://yuyuichiu-personal.s3.us-west-1.amazonaws.com/Yu+Yui+Chiu_CV_2022.pdf' target='_blank'>Link</a>
+Major web projects are pinned on my github profile.
 
-My website: <a href='https://www.yuyuichiu.com/blog' target='_blank'>https://www.yuyuichiu.com</a> (Work in Progress)
+My website: <a href='https://www.yuyuichiu.com/blog' target='_blank' rel='noreferrer'>https://www.yuyuichiu.com</a>
+
+My resume: <a href='https://yuyuichiu-personal.s3.us-west-1.amazonaws.com/Yu+Yui+Chiu_CV_2022.pdf' target='_blank' rel='noreferrer'>Resume PDF</a>
+
+📫 How to reach me: Email - yuichiuyu1915@gmail.com, Linkedin: https://www.linkedin.com/in/yuyuichiu/
 
 <!--
 
