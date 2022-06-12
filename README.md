@@ -3,14 +3,16 @@
 ![Codewar Badge](https://www.codewars.com/users/yuyuichiu/badges/large)
 ![image](https://user-images.githubusercontent.com/68574667/173236625-e43c3f0a-07d2-4c64-9ad7-b4687758a894.png)
 
+My website: <a href='https://www.yuyuichiu.com/blog' target='_blank' rel='noreferrer'>https://www.yuyuichiu.com</a>
+
 
 - 🔭 IM Major Student of City University of Hong Kong
 - 🌱 Front-end Web Development Skills - CSS, Bootstrap, JavaScript/Typescript, React.js, Next.js, SCSS, Reponsive Design, Figma
 - ♟️ Server-side Development Skills - RESTful APIs, Node.js with Express, Cloud (AWS, MongoDB..), GraphQL
 
-#### Checkout my web projects!
+#### Checkout my pinned web projects!
 
-My major web projects are pinned on my github profile.
+My major web projects are pinned on my github profile, or you may access them via my website.
 
 My website: <a href='https://www.yuyuichiu.com/blog' target='_blank' rel='noreferrer'>https://www.yuyuichiu.com</a>
 
