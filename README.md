@@ -1,6 +1,8 @@
 ### Hi there, this is Dave. 👋          ![](https://komarev.com/ghpvc/?username=yuyuichiu&color=yellow&style=flat)
 
 ![Codewar Badge](https://www.codewars.com/users/yuyuichiu/badges/large)
+![image](https://user-images.githubusercontent.com/68574667/173236625-e43c3f0a-07d2-4c64-9ad7-b4687758a894.png)
+
 
 - 🔭 IM Major Student of City University of Hong Kong
 - 🌱 Front-end Web Development Skills - CSS, Bootstrap, JavaScript/Typescript, React.js, Next.js, SCSS, Reponsive Design, Figma
@@ -8,7 +10,7 @@
 
 #### Checkout my web projects!
 
-Major web projects are pinned on my github profile.
+My major web projects are pinned on my github profile.
 
 My website: <a href='https://www.yuyuichiu.com/blog' target='_blank' rel='noreferrer'>https://www.yuyuichiu.com</a>
 
